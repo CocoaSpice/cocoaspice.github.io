@@ -68,7 +68,8 @@ theme: landscape
 ## Docs: http://hexo.io/docs/deployment.html
 deploy: 
     type: git
-    repository: https://github.com/cocoaspice/cocoaspice.git, gh-pages
+    repository: git@github.com:CocoaSpice/cocoaspice.github.io.git
+    branch: master
   # type: git
   # repository: https://gitcafe.com/cocoaspice/cocoaspice.git 
   # branch: gitcafe-pages
